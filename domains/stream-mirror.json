@@ -1,6 +1,7 @@
 {
   "owner": {
-    "username": "AnotherChocoMilky"
+    "username": "AnotherChocoMilky",
+    "email": "shootinglikeasoldier@gmail.com"
   },
   "records": {
     "CNAME": "stream-mirror.jameslandon220.workers.dev"
